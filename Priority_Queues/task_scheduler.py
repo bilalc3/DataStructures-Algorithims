@@ -1,5 +1,6 @@
 from collections import Counter
 import heapq
+from typing import List
 
 class SolutionHP:
     def leastInterval(self, tasks: List[str], n: int) -> int:
