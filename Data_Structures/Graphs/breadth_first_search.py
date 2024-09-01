@@ -3,7 +3,6 @@ from collections import deque
 # Function to perform Breadth First Search on a graph
 def bfs(adjList, startNode, visited):
     
-    
     q = deque()
     
     while q:
